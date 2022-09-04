@@ -1,6 +1,6 @@
 {
-  "status": "SCRUBBED",
-  "scheduledT0": "2022-09-03T20:17:00Z",
+  "status": "DELAYED",
+  "scheduledT0": "2022-10-17T00:41:00Z",
   "launchEvents": [
     {
       "id": 1,
