@@ -6,6 +6,160 @@
       "id": 1,
       "activeBlock": {
         "start": {
+          "hours":46,
+          "minutes": 40
+        },
+        "end": {
+          "hours": 46,
+          "minutes": 0
+        }
+      },
+      "description": "The launch team arrives on their stations and the countdown begins"
+    },
+    {
+      "id": 2,
+      "activeBlock": {
+        "start": {
+          "hours":46,
+          "minutes": 0
+        },
+        "end": {
+          "hours": 41,
+          "minutes": 0
+        }
+      },
+      "description": "Fill the water tank for the sound suppression system"
+    },
+    {
+      "id": 3,
+      "activeBlock": {
+        "start": {
+          "hours":46,
+          "minutes": 0
+        },
+        "end": {
+          "hours": 37,
+          "minutes": 0
+        }
+      },
+      "description": "Liquid Oxygen (LOX)/Liquid Hydrogen (LH2) System Preparations for Vehicle Loading"
+    },
+    {
+      "id": 4,
+      "activeBlock": {
+        "start": {
+          "hours":42,
+          "minutes": 0
+        },
+        "end": {
+          "hours": 41,
+          "minutes": 30
+        }
+      },
+      "description": "The Orion spacecraft is powered up if not already powered at Call to Stations (CTS)"
+    },
+    {
+      "id": 5,
+      "activeBlock": {
+        "start": {
+          "hours":38,
+          "minutes": 30
+        },
+        "end": {
+          "hours": 35,
+          "minutes": 30
+        }
+      },
+      "description": "The interim cryogenic propulsion stage (ICPS) is Powered-up"
+    },
+    {
+      "id": 6,
+      "activeBlock": {
+        "start": {
+          "hours": 34,
+          "minutes": 0
+        },
+        "end": {
+          "hours": 33,
+          "minutes": 20
+        }
+      },
+      "description": "The core stage is powered up"
+    },
+    {
+      "id": 7,
+      "activeBlock": {
+        "start": {
+          "hours": 36,
+          "minutes": 20
+        },
+        "end": {
+          "hours": 31,
+          "minutes": 0
+        }
+      },
+      "description": "Final preparations of the four RS-25 engines"
+    },
+    {
+      "id": 8,
+      "activeBlock": {
+        "start": {
+          "hours": 36,
+          "minutes": 20
+        },
+        "end": {
+          "hours": 22,
+          "minutes": 0
+        }
+      },
+      "description": "Core stage composite overwrapped pressure vessel (COPV) Pressurization to Flight Pressure"
+    },
+    {
+      "id": 9,
+      "activeBlock": {
+        "start": {
+          "hours": 30,
+          "minutes": 0
+        },
+        "end": {
+          "hours": 26,
+          "minutes": 0
+        }
+      },
+      "description": "Charge Orion Flight Batteries to 100%"
+    },
+    {
+      "id": 10,
+      "activeBlock": {
+        "start": {
+          "hours": 27,
+          "minutes": 0
+        },
+        "end": {
+          "hours": 21,
+          "minutes": 0
+        }
+      },
+      "description": "Charge core stage Flight Batteries"
+    },
+    {
+      "id": 11,
+      "activeBlock": {
+        "start": {
+          "hours": 18,
+          "minutes": 30
+        },
+        "end": {
+          "hours": 21,
+          "minutes": 0
+        }
+      },
+      "description": "The ICPS is Powered-up for launch"
+    },
+    {
+      "id": 12,
+      "activeBlock": {
+        "start": {
           "hours": 12,
           "minutes": 0
         },
@@ -17,7 +171,7 @@
       "description": "All non-essential personnel leave Launch Complex 39B"
     },
     {
-      "id": 2,
+      "id": 13,
       "activeBlock": {
         "start": {
           "hours": 11,
@@ -31,7 +185,7 @@
       "description": "Ground Launch Sequencer (GLS) Activation"
     },
     {
-      "id": 3,
+      "id": 14,
       "activeBlock": {
         "start": {
           "hours": 10,
@@ -45,7 +199,7 @@
       "description": "Air-to-gaseous nitrogen (GN2) Changeover for vehicle cavity inerting"
     },
     {
-      "id": 4,
+      "id": 15,
       "activeBlock": {
         "start": {
           "hours": 9,
@@ -59,7 +213,7 @@
       "description": "Built in countdown hold begins"
     },
     {
-      "id": 6,
+      "id": 16,
       "activeBlock": {
         "start": {
           "hours": 9,
@@ -73,7 +227,7 @@
       "description": "Launch team conducts a weather and tanking briefing"
     },
     {
-      "id": 7,
+      "id": 17,
       "activeBlock": {
         "start": {
           "hours": 8,
@@ -87,7 +241,7 @@
       "description": "Launch team decides if they are “go” or “no-go” to begin tanking the rocket"
     },
     {
-      "id": 8,
+      "id": 18,
       "activeBlock": {
         "start": {
           "hours": 8,
@@ -101,7 +255,7 @@
       "description": "Core Stage LOX transfer line chilldown"
     },
     {
-      "id": 9,
+      "id": 19,
       "activeBlock": {
         "start": {
           "hours": 8,
@@ -115,7 +269,7 @@
       "description": "Core stage LOX main propulsion system (MPS) chilldown"
     },
     {
-      "id": 10,
+      "id": 20,
       "activeBlock": {
         "start": {
           "hours": 7,
@@ -129,7 +283,7 @@
       "description": "Core stage LOX slow fill "
     },
     {
-      "id": 11,
+      "id": 21,
       "activeBlock": {
         "start": {
           "hours": 7,
@@ -143,7 +297,7 @@
       "description": "Core Stage LOX fast fill"
     },
     {
-      "id": 12,
+      "id": 22,
       "activeBlock": {
         "start": {
           "hours": 7,
@@ -157,7 +311,7 @@
       "description": "Core Stage LH2 chilldown"
     },
     {
-      "id": 13,
+      "id": 23,
       "activeBlock": {
         "start": {
           "hours": 7,
@@ -171,7 +325,7 @@
       "description": "Core Stage LH2 slow fill start"
     },
     {
-      "id": 14,
+      "id": 24,
       "activeBlock": {
         "start": {
           "hours": 6,
@@ -185,7 +339,7 @@
       "description": "Core Stage LH2 fast fill"
     },
     {
-      "id": 15,
+      "id": 25,
       "activeBlock": {
         "start": {
           "hours": 6,
@@ -199,7 +353,7 @@
       "description": "Engine bleed kick start"
     },
     {
-      "id": 16,
+      "id": 26,
       "activeBlock": {
         "start": {
           "hours": 5,
@@ -213,7 +367,7 @@
       "description": "Core Stage LH2 topping"
     },
     {
-      "id": 17,
+      "id": 27,
       "activeBlock": {
         "start": {
           "hours": 5,
@@ -227,7 +381,7 @@
       "description": "Core Stage LH2 replenish"
     },
     {
-      "id": 18,
+      "id": 28,
       "activeBlock": {
         "start": {
           "hours": 4,
@@ -241,7 +395,7 @@
       "description": "ICPS LH2 ground support equipment (GSE) and tank chilldown"
     },
     {
-      "id": 19,
+      "id": 29,
       "activeBlock": {
         "start": {
           "hours": 4,
@@ -255,7 +409,7 @@
       "description": "ICPS LH2 fast fill start"
     },
     {
-      "id": 20,
+      "id": 30,
       "activeBlock": {
         "start": {
           "hours": 4,
@@ -269,7 +423,7 @@
       "description": "Orion communications system activated (RF to Mission Control)"
     },
     {
-      "id": 21,
+      "id": 31,
       "activeBlock": {
         "start": {
           "hours": 4,
@@ -283,7 +437,7 @@
       "description": "Core stage LOX topping"
     },
     {
-      "id": 22,
+      "id": 32,
       "activeBlock": {
         "start": {
           "hours": 3,
@@ -297,7 +451,7 @@
       "description": "Core stage LOX replenish"
     },
     {
-      "id": 23,
+      "id": 33,
       "activeBlock": {
         "start": {
           "hours": 3,
@@ -311,7 +465,7 @@
       "description": "ICPS LOX MPS chilldown"
     },
     {
-      "id": 24,
+      "id": 34,
       "activeBlock": {
         "start": {
           "hours": 3,
@@ -325,7 +479,7 @@
       "description": "ICPS LOX fast fill"
     },
     {
-      "id": 25,
+      "id": 35,
       "activeBlock": {
         "start": {
           "hours": 3,
@@ -339,7 +493,7 @@
       "description": "ICPS LH2 validation and leak test"
     },
     {
-      "id": 26,
+      "id": 36,
       "activeBlock": {
         "start": {
           "hours": 3,
@@ -353,7 +507,7 @@
       "description": "ICPS LH2 tank topping start"
     },
     {
-      "id": 27,
+      "id": 37,
       "activeBlock": {
         "start": {
           "hours": 2,
@@ -367,7 +521,7 @@
       "description": "ICPS/Space Launch System (SLS) telemetry data verified with Mission Control and SLS Engineering Support Center"
     },
     {
-      "id": 28,
+      "id": 38,
       "activeBlock": {
         "start": {
           "hours": 2,
@@ -381,7 +535,7 @@
       "description": "ICPS LOX validation and leak test"
     },
     {
-      "id": 29,
+      "id": 39,
       "activeBlock": {
         "start": {
           "hours": 2,
@@ -395,7 +549,7 @@
       "description": "ICPS LH2 replenish"
     },
     {
-      "id": 30,
+      "id": 40,
       "activeBlock": {
         "start": {
           "hours": 2,
@@ -409,7 +563,7 @@
       "description": "ICPS LOX topping"
     },
     {
-      "id": 31,
+      "id": 41,
       "activeBlock": {
         "start": {
           "hours": 2,
@@ -423,7 +577,7 @@
       "description": "ICPS LOX replenish"
     },
     {
-      "id": 32,
+      "id": 42,
       "activeBlock": {
         "start": {
           "hours": 0,
@@ -437,7 +591,7 @@
       "description": "Final NASA Test Director briefing is held"
     },
     {
-      "id": 33,
+      "id": 43,
       "activeBlock": {
         "start": {
           "hours": 0,
@@ -451,7 +605,7 @@
       "description": "Built in 30-minute countdown hold begins"
     },
     {
-      "id": 34,
+      "id": 44,
       "activeBlock": {
         "start": {
           "hours": 0,
